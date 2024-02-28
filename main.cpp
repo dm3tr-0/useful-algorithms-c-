@@ -73,7 +73,7 @@ void erat() {
     sort(pr.begin(), pr.end());
 }
 
-////////дейстра////
+////////дейkcтра////
 int dj() {
     int n, m; cin >> n >> m;
     vector <vector<pair<int, int>>> g(n);
